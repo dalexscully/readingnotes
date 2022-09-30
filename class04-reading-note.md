@@ -1,6 +1,11 @@
-reading-note-class4
-Learn HTML
-Creating Hyperlinks
+# Reading-note-class4
+
+## Learn HTML
+<hr>
+
+### Creating Hyperlinks
+<hr>
+
 To create a basic link, we wrap text or other content inside what element? A basic link is created by wrapping the text or other content, see Block level links, inside an element and using the href attribute, also known as a Hypertext Reference, or target, that contains the web address.
 
 The href attribute contains what information? The URL that the hyperlink points to. Links are not restricted to HTTP-based URLs — they can use any URL scheme supported by browsers:

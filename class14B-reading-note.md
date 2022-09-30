@@ -1,5 +1,10 @@
-reading-note-rd14B
-Psychological Safety
+# Reading-note-rd14B
+<hr>
+
+## Psychological Safety
+<hr>
+
+
 The whole premise of this article revolved completely around psychological mindset of team collaborations. For anything in life to be successful team work is an essential component to accomplishing that task. Things such as marriage, a sports team, government entities and companies/corporations whether big or small needs team collaborations in order to be successful. To get an aggregate positive outcome team contribution stems from multiple faucets which I will elaborate in this article.
 
 However, how can a team be successful? In part, when dealing with so many different personality and attitudes? This can surely make team collaboration very daunting and difficult. I really find it very interest how the auther assimalated a few examples in her article which I will use in my reading-note. I do agree it is feasible to have people in a team setting that are able to share their most intimate secret so everyone can feel at ease without ridicule or shame and have that human element in the team to form a cohesive unit rather than it just be a job and business as usual. This piece of the article stated, "What Project Aristotle has taught people within Google is that no one wants to put on a ‘‘work face’’ when they get to the office. No one wants to leave part of their personality and inner life at home. But to be fully present at work, to feel ‘‘psychologically safe,’’ we must know that we can be free enough, sometimes, to share the things that scare us without fear of recriminations. We must be able to talk about what is messy or sad, to have hard conversations with colleagues who are driving us crazy. We can’t be focused just on efficiency. Rather, when we start the morning by collaborating with a team of engineers and then send emails to our marketing colleagues and then jump on a conference call, we want to know that those people really hear us. We want to know that work is more than just labor." I find this part of the article heart warming and really does make a difference how a team can be free and preform and accomplish exceptional things.

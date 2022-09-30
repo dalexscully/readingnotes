@@ -1,5 +1,9 @@
-reading-note-rd9
-HTML Forms rd 9
+# Reading-note-rd9
+<hr>
+
+## HTML Forms rd 9
+<hr>
+
 Your first Web Form. How To Structure A Web Form.
 Web forms are one of the main points of interaction between a user and a web site or application. Forms allow users to enter data, which is generally sent to a web server for processing and storage (see Sending form data later in the module), or used on the client-side to immediately update the interface in some way (for example, add another item to a list, or show or hide a UI feature).
 

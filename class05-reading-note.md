@@ -1,6 +1,12 @@
-reading-note-201-Rd-5
-Images, Color, Text
-HTML Media
+# Reading-note-201-Rd-5
+
+## Images, Color, Text
+<hr>
+
+
+### HTML Media
+<hr>
+
 Using Images In HTML. Read Common Image Types and Choosing Image Formats.
 What is a real world use case for the alt attribute being used in a website? Its value is supposed to be a textual description of the image, for use in situations where the image cannot be seen/displayed or takes a long time to render because of a slow internet connection.
 

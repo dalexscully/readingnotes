@@ -1,6 +1,13 @@
-reading-note-rd-8
-CSS Layout Rd 8
-Learn CSS - Flexbox
+# Reading-note-rd-8
+<nr>
+
+## CSS Layout Rd 8
+<hr>
+  
+### Learn CSS - Flexbox
+<hr>
+  
+  
 Flexbox is designed for one-dimensional content. Explain what this means. The Flexible Box Layout Model (flexbox) is a layout model designed for one-dimensional content. It excels at taking a bunch of items which have different sizes, and returning the best layout for those items. This is the ideal layout model for this sidebar pattern. Flexbox not only helps lay the sidebar and content out inline, but where there's not enough space remaining, the sidebar will break onto a new line. Instead of setting rigid dimensions for the browser to follow, with flexbox, you can instead provide flexible boundaries to hint how the content could display.
 
 Explain the difference between the main axis and cross axis. The key to understanding flexbox is to understand the concept of a main axis and a cross axis. The main axis is the one set by your flex-direction property. If that is row your main axis is along the row, if it is column your main axis is along the column.

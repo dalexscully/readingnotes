@@ -1,4 +1,4 @@
-# reading-note-class-01
+# Reading-note-class-01
 
 ## Reading Introduction for 201
 

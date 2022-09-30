@@ -1,6 +1,11 @@
-reading-note-3
-HTML Lists, Control Flow with JS, and the CSS Box Model
-Learn HTML
+#Reading-note-3
+
+## HTML Lists, Control Flow with JS, and the CSS Box Model
+
+
+### Learn HTML
+<hr>
+
 When should you use an unordered list in your HTML document? The ul element is for grouping a collection of items that do not have a numerical ordering, and their order in the list is meaningless. Typically, unordered-list items are displayed with a bullet, which can be of several forms, like a dot, a circle, or a square.
 
 How do you change the bullet style of unordered list items? The li type attribute in HTML is used to specify the type of a list items. This attribute also defines the style of the bullet point of the list items.

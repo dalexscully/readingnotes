@@ -1,7 +1,12 @@
-reading-note-class-01
-Reading Introduction for 201
-How the Web Works.
-Website Design and Process.
+# reading-note-class-01
+
+## Reading Introduction for 201
+
+### How the Web Works.
+<hr>
+
+#### Website Design and Process.
+<hr>
 JavaScript Basics:
 Compose a short poem describing how HTTP sends data between computers. The browser sends an HTTP request message to the server, asking it to send a copy of the website to the client. This message, and all other data sent between the client and the server, is sent across your internet connection using TCP/IP.
 

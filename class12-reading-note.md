@@ -1,6 +1,13 @@
-reading-note-12
-Chart.js, Canvas
-JavaScript Canvas
+# Reading-note-12
+<hr>
+
+
+## Chart.js, Canvas
+<hr>
+
+### JavaScript Canvas
+<hr>
+
 What does the canvas allow a developer to acheive? HTML5 features the canvas element that allows you to draw 2D graphics using JavaScript. The canvas element requires at least two attributes: width and height that specify the size of the canvas.
 
 What is the importance of the closing canvas tag? The element requires the closing tag canvas. Any content between the opening and closing tags is fallback content that will display only if the browser doesn’t support the canvas element.

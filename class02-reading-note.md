@@ -1,5 +1,8 @@
-reading-note
-Basics of HTML, CSS & JS Rd.2
+#Reading-note
+
+##Basics of HTML, CSS & JS Rd.2
+<hr>
+
 Why is it important to use semantic elements is our HTML? Semantic elements gives the text it wrap around the role (meaning of a top level heading on a page. Semantics is one of HTML main component so that the browser know-how to display it correctly.
 
 How many levels of heading are there in HTML? There are 6 defines levels of HTML headings. The heading elements are H1, H2, H3, H4, H5 and H6 with H1 being the highest or most important.

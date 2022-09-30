@@ -1,6 +1,13 @@
-reading-note-rd11
-Audio, Video, Images
-Video and Audio Content
+# Reading-note-rd11
+<hr>
+
+## Audio, Video, Images
+<hr>
+
+### Video and Audio Content
+<hr>
+
+
 Explain how the ability to use video and audio on the web has evolved since the early 2000s.
 
 The first influx of online videos and audio were made possible by proprietary plugin-based technologies like Flash and Silverlight. Both of these had security and accessibility issues, and are now obsolete, in favor of native HTML solutions video and audio elements and the availability of JavaScript APIs for controlling them.

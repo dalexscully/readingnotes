@@ -1,6 +1,12 @@
-reading-note-rd-6
-Problem Domain, Objects, and the DOM
-JavaScript Object Basics
+# Reading-note-rd-6
+
+
+## Problem Domain, Objects, and the DOM
+<hr>
+
+### JavaScript Object Basics
+<hr>
+
 How would you describe an object to a non-technical friend you grew up with? An object is a collection of related data and/or functionality. These usually consist of several variables and functions (which are called properties and methods when they are inside objects).
 
 What are some advantages to creating object literals? The advantage of Object Literal: It provides a shorter syntax for creating/initializing properties from variables (Property Shorthand). It provides a shorter syntax for defining function methods. It enables the ability to have computed property names in an object's literal definition.

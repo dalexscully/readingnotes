@@ -1,5 +1,10 @@
-reading-note-rd14
-CSS Transforms
+# Reading-note-rd14
+<hr>
+
+## CSS Transforms
+<hr>
+
+
 What does a CSS transform allow the developer to do to an element?
 
 The transform CSS property lets you rotate, scale, skew, or translate an element. It modifies the coordinate space of the CSS visual formatting model. With CSS3 came new ways to position and alter elements. Now general layout techniques can be revisited with alternative ways to size, position, and change elements. All of these new techniques are made possible by the transform property.

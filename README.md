@@ -43,7 +43,7 @@ Table of Contents
 Table of Contents
 
 1. [Class 1 -](./class01-reading-notes.md)
-2. [Class 2 -]()
+2. [Class 2 -](./class02-reading-notes.md)
 3. [Class 3 -]()
 4. [Class 4 -]()
 5. [Class 5 -]()

@@ -30,3 +30,19 @@ Give an example of using the spread operator to combine two objects into one.
 The spread syntax is useful for combining the properties and methods on objects into a new object:
 
 const objectOne = {hello: "🤪"} const objectTwo = {world: "🐻"} const objectThree = {...objectOne, ...objectTwo, laugh: "😂"} console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" } const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}} objectFour.laugh() // 😂😂😂😂😂
+
+How to Pass Functions Between Components
+
+In the video, what is the first step that the developer does to pass functions between components?
+https://youtube.com/clip/Ugkx2x-uIK9S6G1BH7T6JrLK-psLiYd1l1SY
+The developer created the increment method = (name) => in the this.state function constructor component to find the matching name using the map() method.
+
+In your own words, what does the increment function do?
+The increment function is the setState function returns before this.state.count is incremented to increase a count. 
+
+How can you pass a method from a parent component into a child component?
+Define your parent callback function in your parent component then pass the function to the child component then set up an input variable in child component and finally call the callback function.
+
+
+How does the child component invoke a method that was passed to it from a parent component?
+To call a child's function from a parent component in React first is to wrap the Child component in a forwardRef. Secondly, use the useImperativeHandle hook in the child to add a function to the Child and finally, call the Child's function from the Parent using the ref, e.g. childRef. current. childFunction() .

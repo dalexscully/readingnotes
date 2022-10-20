@@ -45,7 +45,7 @@ Table of Contents
 1. [Class 1 -](./class01-reading-notes.md)
 2. [Class 2 -](./class02-reading-notes.md)
 3. [Class 3 -](./class03-reading-notes.md)
-4. [Class 4 -]()
+4. [Class 4 -](./class04-reading-notes.md)
 5. [Class 5 -]()
 6. [Class 6 -]()
 7. [Class 7 -]()

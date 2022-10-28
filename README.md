@@ -51,7 +51,7 @@ Table of Contents
 7. [Class 7 -](./class07-reading-notes.md)
 8. [Class 8 -](./class08-reading-notes.md)
 9. [Class 9 -](./class09-reading-notes.md)
-10. [Class 10 -]()
+10. [Class 10 -](./class10-reading-notes.md)
 11. [Class 11 -]()
 12. [Class 12 -]() 
 13. [Class 13 -]()

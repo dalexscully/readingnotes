@@ -2,7 +2,7 @@
 
 Fill in the chart below with five differences between SQL and NoSQL databases:
 
-SQL ### NoSQL
+SQL Vs NoSQL
 image
 
 What kind of data is a good fit for an SQL database? SQL databases are perfectly suited for storing and processing structured data.

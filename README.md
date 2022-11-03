@@ -55,7 +55,7 @@ Table of Contents
 11. [Class 11 -](./class11-reading-notes.md)
 12. [Class 12 -](./class12-reading-notes.md) 
 13. [Class 13 -](./class13-reading-notes.md)
-14. [Class 14 -]()
+14. [Class 14 -](./class14-reading-notes.md)
 15. [Class 15 -]() 
 
 

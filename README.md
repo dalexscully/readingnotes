@@ -56,7 +56,7 @@ Table of Contents
 12. [Class 12 -](./class12-reading-notes.md) 
 13. [Class 13 -](./class13-reading-notes.md)
 14. [Class 14 -](./class14-reading-notes.md)
-15. [Class 15 -]() 
+15. [Class 15 -](./class15-reading-notes.md) 
 
 
 ### Code 401 - Advance Software Development

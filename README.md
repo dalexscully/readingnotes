@@ -64,7 +64,7 @@ Table of Contents
 Table of Contents
 
 1. [Bash Practice](./class1-reading-notes.md)
-2. [Class 2 -]()
+2. [Rational databases and SQL](./sql-reading-notes.md)
 3. [Class 3 -]()
 4. [Class 4 -]()
 5. [Class 5 -]()

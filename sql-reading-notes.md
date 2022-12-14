@@ -298,7 +298,7 @@ CREATE TABLE movies (
 
 Sreenshot
 
-[](img/Screen%20Shot%20SQL%20lesson%2016.png)
+![](img/Screen%20Shot%20SQL%20lesson%2016.png)
 
 ## Altering tables
 

@@ -10,7 +10,7 @@ This amazing video surely impacted me in a way I am unable to express in words. 
 
 ## The power of passion and perseverance
 
-[Angela Lee Duckworth "Powoer of passion and perserverance"](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
+[Angela Lee Duckworth "Power of passion and perserverance"](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
 
 I am a true believer in that "grit" builds a solid foundation for lasting success. To succeed in life, I am absolutely a believer that to have passion and preserverance to see things through to the very end is what enables a person to achieve the success they want in life. That fire to absolutely want to succeed that growth mindset is what will compel people through the difficulties in life. I am flabergasted how much this ideology Angela Lee presented in this video makes so much sense and is a true depiction of the facts of life. 
 

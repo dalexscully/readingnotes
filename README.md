@@ -63,10 +63,10 @@ Table of Contents
 
 Table of Contents
 
-1. [Bash Practice](./class1-reading-notes.md)
+1. [Bash Practice](./bash practice-reading-notes.md)
 2. [Rational databases and SQL](./sql-reading-notes.md)
 3. [The Growth Mindset](./growth-mindset-reading-notes.md) 
-4. [Class 1 -]()
+4. [Class 1 -](./Class001-reading-notes.md)
 5. [Class 2 -]()
 6. [Class 3 -]()
 7. [Class 4 -]()

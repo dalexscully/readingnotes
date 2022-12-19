@@ -63,7 +63,7 @@ Table of Contents
 
 Table of Contents
 
-1. [Bash Practice](./bash-reading-notes.md)
+1. [Bash Practice](./bash-practice-reading-notes.md)
 2. [Rational databases and SQL](./sql-reading-notes.md)
 3. [The Growth Mindset](./growth-mindset-reading-notes.md) 
 4. [Class 1 -](./class001-reading-notes.md)

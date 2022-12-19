@@ -34,8 +34,8 @@ Table of Contents
 12. [Class 12 -](./class12-reading-note.md)
 13. [Class 13 -](./class13-reading-note.md)
 14. [Class 14 -](./class14-reading-note.md)
-14b.[Class 14B -](./class14B-reading-note.md)
-15. [Class 15 -](./class15-reading-note.md)
+15. [Class 15 -](./class14B-reading-note.md)
+
 
 
 #### Code 301 - Intermeddiate Software Development
@@ -63,10 +63,10 @@ Table of Contents
 
 Table of Contents
 
-1. [Bash Practice](./bash practice-reading-notes.md)
+1. [Bash Practice](./bash-reading-notes.md)
 2. [Rational databases and SQL](./sql-reading-notes.md)
 3. [The Growth Mindset](./growth-mindset-reading-notes.md) 
-4. [Class 1 -](./Class001-reading-notes.md)
+4. [Class 1 -](./class001-reading-notes.md)
 5. [Class 2 -]()
 6. [Class 3 -]()
 7. [Class 4 -]()

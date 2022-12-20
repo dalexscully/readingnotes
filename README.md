@@ -67,7 +67,7 @@ Table of Contents
 2. [Rational databases and SQL](./sql-reading-notes.md)
 3. [The Growth Mindset](./growth-mindset-reading-notes.md) 
 4. [Class 1 -](./class001-reading-notes.md)
-5. [Class 2 -]()
+5. [Class 2 -](./class002-reading-notes.md)
 6. [Class 3 -]()
 7. [Class 4 -]()
 8. [Class 5 -]()

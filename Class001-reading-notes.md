@@ -6,7 +6,7 @@ My perspective is to achieve success and growth development in this amazing fiel
 
 ## Why are you doing this?
 
-Computer developer was is and will remained to be something I enjoy doing for the foreseeable future. I believe the future is in technology and will be away to assist people far and wide easily through technological advances, and this is the main reason why I am doing this course. I ultimately want to help people and be a major contributor to society be applying my knowledge and expertise.
+Computter developer was is and will remained to be something I enjoy doing for the foreseeable future. I believe the future is in technology and will be away to assist people far and wide easily through technological advances, and this is the main reason why I am doing this course. I ultimately want to help people and be a major contributor to society be applying my knowledge and expertise.
 
 ## Do you want what comes at the end of this journey?
 
@@ -24,7 +24,7 @@ I am doing this for me, my family, my friends and all the people is this world t
 
 O(1) describes an algorithm that will always execute in the same time (or space) regardless of the size of the input data set.
 
-bool IsFirstElementNull(IList<String> elements)
+bool IsFirstElementNull(IList String elements)
 
 {
 

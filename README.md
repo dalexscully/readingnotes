@@ -70,7 +70,7 @@ Table of Contents
 5. [Testing and Modules](./test-and-module-reading-notes.md)
 6. [Class 1 -](./class001-reading-notes.md)
 7. [Class 2 -](./class002-reading-notes.md)
-8. [Class 3 -]()
+8. [Class 3 -](./class003-reading-notes.md)
 9. [Class 4 -]()
 10. [Class 5 -]()
 11. [Class 6 -]()
@@ -83,4 +83,3 @@ Table of Contents
 18. [Class 13 -]()
 19. [Class 14 -]()
 20. [Class 15 -]()
-

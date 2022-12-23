@@ -76,4 +76,5 @@ To further grasp the overall concept of this article, Please follow the links be
 
 ## Things I want to know more about,
 
-I want to know all there is about Python for it is a computer language I always was drawn to comprehend as much as possible. 
+I want to know all there is about Python for it is a computer language I always was drawn to comprehend as much as possible.
+

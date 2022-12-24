@@ -72,7 +72,7 @@ Table of Contents
 7. [Class 2 -](./class002-reading-notes.md)
 8. [Class 3 -](./class003-reading-notes.md)
 9. [Class 4 -](./class004-reading-notes.md)
-10. [Class 5 -]()
+10. [Linked Lists](./claas005-reading-notes.md)
 11. [Class 6 -]()
 12. [Class 7 -]()
 13. [Class 8 -]()

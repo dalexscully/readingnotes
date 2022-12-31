@@ -76,7 +76,7 @@ Table of Contents
 11. [Class 6 - Ten Thousand Game 1](./reading006-reading-notes.md)
 12. [Class 7 - Ten Thousand Game 2](./reading007-reading-notes.md)
 13. [Class 8 - List Comprehension, Primer on Decorators](./reading008-reading-notes.md)
-14. [Class 9 -]()
+14. [Class 9 - Stacks & Queues](./reading009-reading-notes.md)
 15. [Class 10 -]()
 16. [Class 11 -]()
 17. [Class 12 -]()

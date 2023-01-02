@@ -2,7 +2,7 @@
 
  <hr>
 
- ## Links and Resources
+## Links and Resources
 
  - [What is JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
   - [Numpy Tutorial](https://www.tutorialspoint.com/numpy/index.htm)

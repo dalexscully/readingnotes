@@ -78,7 +78,7 @@ Table of Contents
 13. [Class 8 - List Comprehension, Primer on Decorators](./reading008-reading-notes.md)
 14. [Class 9 - Stacks & Queues](./reading009-reading-notes.md)
 15. [Class 11 -Data Analyis Jupyter and Numpy](./reading011-reading-notes.md)
-16. [Class 12 -]()
+16. [Class 12 - Pandas](./reading012-reading-notes.md)
 17. [Class 13 -]()
 18. [Class 14 -]()
 19. [Class 15 -]()

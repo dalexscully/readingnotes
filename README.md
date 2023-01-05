@@ -80,7 +80,7 @@ Table of Contents
 15. [Class 11 -Data Analyis Jupyter and Numpy](./reading011-reading-notes.md)
 16. [Class 12 - Pandas](./reading012-reading-notes.md)
 17. [Class 13 - Linear Regressions](./reading013-reading-notes.md)
-18. [Class 14 -]()
+18. [Class 14 - Data Visualization](./reading014-reading-notes.md)
 19. [Class 15 -]()
 20. [Class 16 -]()
 

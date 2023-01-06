@@ -81,6 +81,6 @@ Table of Contents
 16. [Class 12 - Pandas](./reading012-reading-notes.md)
 17. [Class 13 - Linear Regressions](./reading013-reading-notes.md)
 18. [Class 14 - Data Visualization](./reading014-reading-notes.md)
-19. [Class 15 -]()
+19. [Class 15 - Implementation - Tree](./reading015-reading-notes.md)
 20. [Class 16 -]()
 

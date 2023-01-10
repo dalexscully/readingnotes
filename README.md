@@ -82,5 +82,5 @@ Table of Contents
 17. [Class 13 - Linear Regressions](./reading013-reading-notes.md)
 18. [Class 14 - Data Visualization](./reading014-reading-notes.md)
 19. [Class 15 - Implementation - Tree](./reading015-reading-notes.md)
-20. [Class 16 -]()
+20. [Class 16 - Serverless Function](./reading016-reading-notes.md)
 

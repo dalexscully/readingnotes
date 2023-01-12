@@ -85,7 +85,7 @@ Table of Contents
 20. [Class 16 - Serverless Function](./reading016-reading-notes.md)
 21. [Class 17 - Web Scraper](./reading017-reading-notes.md)
 22. [Class 18 - Cryptography](./reading018-reading-notes.md)
-23. [Class 19 -]()
+23. [Class 19 - Automation](./reading019-reading-notes.md)
 24. [Class 20 -]()
 25. [Class 21 -]()
 26. [Class 22 -]()

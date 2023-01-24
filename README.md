@@ -87,7 +87,7 @@ Table of Contents
 22. [Class 18 - Cryptography](./reading018-reading-notes.md)
 23. [Class 19 - Automation](./reading019-reading-notes.md)
 24. [Class 20 - Introduction to Django](./reading026-reading-notes.md)
-25. [Class 21 -]()
+25. [Class 21 - Django Models](./reading027-reading-notes.md)
 26. [Class 22 -]()
 27. [Class 23 -]()
 28. [Class 24 -]()

@@ -89,7 +89,7 @@ Table of Contents
 24. [Class 20 - Introduction to Django](./reading026-reading-notes.md)
 25. [Class 21 - Django Models](./reading027-reading-notes.md)
 26. [Class 22 - Django CRUD and Forms](./reading028-reading-notes.md)
-27. [Class 23 -]()
+27. [Class 23 - Django Custom User](./reading029-reading-notes.md)
 28. [Class 24 -]()
 29. [Class 25 -]()
 30. [Class 26 -]()

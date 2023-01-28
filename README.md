@@ -90,6 +90,6 @@ Table of Contents
 25. [Class 21 - Django Models](./reading027-reading-notes.md)
 26. [Class 22 - Django CRUD and Forms](./reading028-reading-notes.md)
 27. [Class 23 - Django Custom User](./reading029-reading-notes.md)
-28. [Class 24 -]()
+28. [Class 24 - Hash Tables](./reading030-reading-notes.md)
 29. [Class 25 -]()
 30. [Class 26 -]()

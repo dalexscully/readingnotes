@@ -103,3 +103,4 @@ Table of Contents
 38. [Class 34 - React 4](./reading041-reading-notes.md)
 39. [Class 35 - Pythonisms](./reading042-reading-notes.md)
 40. [Class 36 - Django API Notes](./reading043-reading-notes.md)
+41. [Class 37 - Ethics in Tech](./reading044-reading-notes.md)

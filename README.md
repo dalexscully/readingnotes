@@ -104,3 +104,4 @@ Table of Contents
 39. [Class 35 - Pythonisms](./reading042-reading-notes.md)
 40. [Class 36 - Django API Notes](./reading043-reading-notes.md)
 41. [Class 37 - Ethics in Tech](./reading044-reading-notes.md)
+42. [Class 38- Open Source Software Contribution](./reading045-reading-notes.md)

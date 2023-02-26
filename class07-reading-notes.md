@@ -1,5 +1,17 @@
-REST and API Keys
+Read: 06 REST
 
+## Links and Resources
+
+- [What Google Learned From Its Quest to Build the Prefect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+- [How I explained REST to my brother](https://gist.github.com/brookr/5977550)
+- [Gecoding API](https://locationiq.com/)
+- [wEATHER Bit API](https://www.weatherbit.io/)
+- [Yelp API Docs](https://docs.developer.yelp.com/reference/v3_business_search)
+- [The Movie DB API Docs](https://developers.themoviedb.org/3/getting-started/introduction)
+
+<hr>
+
+## REST and API Keys
 
 Who is Roy Fielding? He helped write the first web servers, that sent documents across the internet… and then he did a ton of research explaining why the web works the way it does. His name is on the specification for the protocol that is used to get pages from servers to your browser.
 
@@ -26,3 +38,5 @@ Did you get your API key? Yes
 
 The Movie DB API Docs
 Did you get your API key? Yes
+
+<hr>

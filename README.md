@@ -48,7 +48,7 @@ Table of Contents
 4. [Class 4 - React and Forms](./class04-reading-notes.md)
 5. [Class 5 - Putting it all together](./class05-reading-notes.md)
 6. [Class 6 - NODE.JS](./class06-reading-notes.md)
-7. [Class 7 -](./class07-reading-notes.md)
+7. [Class 7 - REST](./class07-reading-notes.md)
 8. [Class 8 -](./class08-reading-notes.md)
 9. [Class 9 -](./class09-reading-notes.md)
 10. [Class 10 -](./class10-reading-notes.md)

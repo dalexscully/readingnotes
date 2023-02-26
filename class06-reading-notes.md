@@ -1,5 +1,16 @@
-An-Introduction-to-Node.js-on-sitepoint.com
+# Read: 06 NODE.JS
 
+## Links and Resources
+
+- [An Introduction to Node.js on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js/)
+- [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+- [Geocoding API Docs](https://locationiq.com/)
+- [Axios docs](https://www.npmjs.com/package/axios)
+- [MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)
+
+<hr>
+
+## An-Introduction-to-Node.js-on-sitepoint.com
 
 What is node.js? Node.js is an event-based, non-blocking, asynchronous I/O runtime that uses Google’s V8 JavaScript engine and libuv library.
 
@@ -23,3 +34,5 @@ What are the 6 reasons for pair programming? The 6 reasons for pair programming 
 In your experience, which of these reasons have you found most beneficial? In my experience, I found social skills to be the most beneficial in my opinion. A quote from the reading truly explains my opinion, "When working with someone who has a different coding style, communication is key. This can become more difficult when two programmers have different personalities. Pair programming not only improves programming skills, but can also help programmers develop their interpersonal skills. When just grabbing the keyboard and taking over isn’t an option, getting good at finding the right words is a skill unto itself."
 
 How does pair programming work? While there are many different styles, pair programming commonly involves two roles: the Driver and the Navigator. The Driver is the programmer who is typing and the only one whose hands are on the keyboard. Handling the “mechanics” of coding, the Driver manages the text editor, switching files, version control, and—of course writing—code. The Navigator uses their words to guide the Driver but does not provide any direct input to the computer. The Navigator thinks about the big picture, what comes next, how an algorithm might be converted in to code, while scanning for typos or bugs. The Navigator might also utilize their computer as a second screen to look up solutions and documentation, but should not be writing any code.
+
+<hr>

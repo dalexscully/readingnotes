@@ -1,4 +1,15 @@
-# MongoDB-and-Mongoose
+# Read: 11 MongoDB and Mongoose
+
+## Links and Resources
+
+- [nosql vs sql](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
+- [sql vs nosql](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+- [mongoose api](https://mongoosejs.com/docs/api.html#Model)
+- [React Router](https://reactrouter.com/en/main)
+
+<hr>
+
+## MongoDB-and-Mongoose
 
 Fill in the chart below with five differences between SQL and NoSQL databases:
 
@@ -36,3 +47,5 @@ What is inside of a MongoDB database? The Easiest Way to Deploy, Operate, and Sc
 Which is more flexible - SQL or MongoDB? and why. While MongoDB is more flexible and ensures high and diverse data availability, a SQL Database operates with the ACID (Atomicity, Consistency, Isolation, and Durability) properties and ensures greater reliability of transactions.
 
 What is the disadvantage of a NoSQL database? One of the most frequently cited drawbacks of NoSQL databases is that they don't support ACID (atomicity, consistency, isolation, durability) transactions across multiple documents. With appropriate schema design, single-record atomicity is acceptable for lots of applications.
+
+<hr>

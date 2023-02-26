@@ -9,7 +9,7 @@ My learning journal! I created this August 2022. I am ecstatic to see how much I
 Table of Contents
 
 1. [Class 1 - Learning Markdown](./class1-readingnotes.md)
-2. [Class 2 - Reflection and Discussion](./class2-readingnotes.md)
+2. [Class 2 - The Coder's Computer](./class2-readingnotes.md)
 3. [Class 3 - Reflection and Discussion](./class3-readingnotes.md)
 4. [Class 4 - Reflection and Discussion](./class4-readingnotes.md)
 5. [Class 5 - Reflection and Discussion](./class5-readingnotes.md)

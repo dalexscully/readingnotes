@@ -1,4 +1,4 @@
-# Read: 02 Reflection and Discussion
+# Read: 02 The Coder's Computer
 
 ## Links and Resources
 

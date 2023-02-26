@@ -69,7 +69,7 @@ Table of Contents
 3. [The Growth Mindset](./growth-mindset-reading-notes.md)
 4. [Engineering Reading](./engineering-overiew-reading.md)
 5. [Testing and Modules](./test-and-module-reading-notes.md)
-6. [Class 1 -](./class001-reading-notes.md)
+6. [Class 1 - Pain VS Suffering](./class001-reading-notes.md)
 7. [Class 2 - Testing and Modules](./class002-reading-notes.md)
 8. [Class 3 - File IO & Exceptions](./class003-reading-notes.md)
 9. [Class 4 - Classes, Objects, Recursion, Pytest Fixtures & Coverage](./class004-reading-notes.md)

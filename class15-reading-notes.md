@@ -1,4 +1,14 @@
-# Authentication
+# Read: 15 Authentication
+
+## Links and Resources
+
+- [What is OAuth](https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html)
+- [Authorization and Authenication flows](https://auth0.com/docs/get-started/authentication-and-authorization-flow)
+- [AuthO for single page apps](https://auth0.com/docs/libraries/auth0-react)
+
+<hr>
+
+## Authentication
 
 ## What is OAuth
 
@@ -38,3 +48,4 @@ What is Device Authorization Flow? With input-constrained devices that connect t
 
 What is Resource Owner Password Flow? Though we do not recommend it, highly-trusted applications can use the Resource Owner Password Flow, which requests that users provide credentials (username and password), typically using an interactive form. The Resource Owner Password Flow should only be used when redirect-based flows (like the Authorization Code Flow) cannot be used.
 
+<hr>

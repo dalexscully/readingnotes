@@ -55,8 +55,8 @@ Table of Contents
 11. [Class 11 - MongoBD and Mongoose](./class11-reading-notes.md)
 12. [Class 12 - CRUD](./class12-reading-notes.md) 
 13. [Class 13 - More CRUD](./class13-reading-notes.md)
-14. [Class 14 -](./class14-reading-notes.md)
-15. [Class 15 -](./class15-reading-notes.md) 
+14. [Class 14 - Diversion and Inclusion in The Tech Industry](./class14-reading-notes.md)
+15. [Class 15 - Authentication](./class15-reading-notes.md) 
 
 
 ### Code 401 - Advance Software Development

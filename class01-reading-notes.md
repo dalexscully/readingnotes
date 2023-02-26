@@ -1,6 +1,16 @@
-Component-Based-Architecture
+# Read: 01 Introduction to React and Components
 
-What is a “component”?
+## Links and Resources:
+
+- [React Tutorial through 'Passing Data Through Props'](https://reactjs.org/tutorial/tutorial.html)
+- [React Docs - Hello World](https://reactjs.org/docs/hello-world.html)
+- [React Docs- Introducting JSX](https://reactjs.org/docs/introducing-jsx.html)
+- [React Docs - Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+- [React Docs - Components and Props](https://reactjs.org/docs/components-and-props.html)
+
+<hr>
+
+## What is a “component”?
 
 Component-based architecture focuses on the decomposition of the design into individual functional or logical components that represent well-defined communication interfaces containing methods, events, and properties. It provides a higher level of abstraction and divides the problem into sub-problems, each associated with component partitions. A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface. A component is a software object, intended to interact with other components, encapsulating certain functionality or a set of functionalities. It has an obviously defined interface and conforms to a recommended behavior common to all components within an architecture. A software component can be defined as a unit of composition with a contractually specified interface and explicit context dependencies only. That is, a software component can be deployed independently and is subject to composition by third parties.
 
@@ -45,3 +55,5 @@ What is “props” short for? “Props” is a special keyword in React, which 
 How are props used in React? Props data is read-only, which means that data coming from the parent should not be changed by child components. Firstly, define an attribute and its value(data). Then pass it to child component(s) by using Props. Finally, render the Props Data
 
 What is the flow of props? The flow of props in React to pass data from one component to another (from a parent component to a child component(s)). Props is just a shorter way of saying properties. They are useful when you want the flow of data in your app to be dynamic.
+
+<hr>

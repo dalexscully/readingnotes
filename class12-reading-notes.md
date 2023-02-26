@@ -1,4 +1,13 @@
-# CRUD
+# Read: 12 CRUD
+
+## Links and Resources
+
+- [Status Codes Based on REST Methods](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)
+- [Build A REST API With Node.JS, Express, & MongoDB - Quick](https://www.youtube.com/watch?v=fgTGADljAeg)
+
+<hr>
+
+## CRUD
 
 ## Status Codes Based On REST Methods
 
@@ -39,3 +48,5 @@ How do you make a default value in a schema? You can specify a default value for
 What does a 500 error status code mean? The HTTP status code 500 is a generic error response. It means that the server encountered an unexpected condition that prevented it from fulfilling the request. This error is usually returned by the server when no other error code is suitable.
 
 What is the difference between a status 200 and a status 201? “Everything is OK.” This is the code that is delivered when a web page or resource acts exactly the way it's expected to. 201: “Created.” The server has fulfilled the browser's request, and as a result, has created a new resource.
+
+<hr>

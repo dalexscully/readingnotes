@@ -1,4 +1,13 @@
-Reading-notes-repo
+# Read: 03 Reflection and Discussion
+
+## Links and Resources
+
+- [Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+
+<hr>
+
+## Reading-notes-repo
+
 My Introduction to Git
 Table of content
 
@@ -19,3 +28,5 @@ Distributed Version Control A Distributed Version Control systems (DVCS) address
 To prevent this type of catastrophic loss, a DVCS allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information.
 
 Because the DVCS allows for multiple mirrored repositories, programmers working in teams can collaborate with each other in various ways to complete a joint project, which enables the use of various simultaneous workflows.
+
+<hr>

@@ -14,7 +14,7 @@ Table of Contents
 4. [Class 4 - Reflection and Discussion](./class4-readingnotes.md)
 5. [Class 5 - Reflection and Discussion](./class5-readingnotes.md)
 6. [Class 6 - Dynamic web pages with JavaScript](./class6-readingnotes.md)
-7. [Class 7 -](./class7-readingnotes.md)
+7. [Class 7 - Programming with JavaScript](./class7-readingnotes.md)
 8. [Class 8 -](./class8-readingnotes.md)
 
 ### Code 201 - Foundations of Software Development

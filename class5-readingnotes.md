@@ -1,4 +1,17 @@
-Concepts of CSS
+# Read: 05 Design web pages with CSS
+
+## Links and Resources
+
+- [What is CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+- [How to Add CSS](https://www.w3schools.com/css/css_howto.asp)
+- [CSS Color](https://www.w3schools.com/cssref/pr_text_color.php)
+- [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [Myers Web Reset Stylesheet](https://meyerweb.com/eric/tools/css/reset/)
+
+<hr>
+
+## Concepts of CSS
+
 CSS modules
 As there are so many things that you could style using CSS, the language is broken down into modules.
 
@@ -32,3 +45,5 @@ There are also other people, known as invited experts, who act as independent vo
 New CSS features are developed or specified by the CSS Working Group — sometimes because a particular browser is interested in having some capability,
 
 other times because web designers and developers are asking for a feature, and sometimes because the Working Group itself has identified a requirement.
+
+<hr>

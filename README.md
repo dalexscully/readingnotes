@@ -12,7 +12,7 @@ Table of Contents
 2. [Class 2 - The Coder's Computer](./class2-readingnotes.md)
 3. [Class 3 - Revisions and the Cloud](./class3-readingnotes.md)
 4. [Class 4 - Structure web pages with HTML](./class4-readingnotes.md)
-5. [Class 5 - Reflection and Discussion](./class5-readingnotes.md)
+5. [Class 5 - Design web pages with CSS](./class5-readingnotes.md)
 6. [Class 6 - Dynamic web pages with JavaScript](./class6-readingnotes.md)
 7. [Class 7 - Programming with JavaScript](./class7-readingnotes.md)
 8. [Class 8 - Operators and Loops](./class8-readingnotes.md)

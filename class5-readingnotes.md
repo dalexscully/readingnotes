@@ -1,4 +1,4 @@
-# Read: 05 Design web pages with CSS
+# Read: 05 - Design web pages with CSS
 
 ## Links and Resources
 

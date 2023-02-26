@@ -1,5 +1,15 @@
-React Docs - Forms
+# Read: 04 React and Forms
 
+## Links and Resources
+
+- [React Docs - Forms](https://reactjs.org/docs/forms.html)
+- [The Conditional (Ternary) Operator Explained](https://www.youtube.com/watch?v=70GmtV-5Ggo)
+- [React Bootstrap - Forms](https://react-bootstrap.github.io/forms/overview/)
+- [React Docs - conditional rendering](https://reactjs.org/docs/conditional-rendering.html)
+
+<hr>
+
+## React Docs - Forms
 
 What is a ‘Controlled Component’?
 
@@ -18,3 +28,5 @@ The Conditional (Ternary) Operator Explained Why would we use a ternary operator
 Rewrite the following statement using a ternary statement: 
 
 if(x===y){ console.log(true); } else { console.log(false); } let x===y = (? 'true' : 'false')
+
+<hr>

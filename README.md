@@ -46,7 +46,7 @@ Table of Contents
 2. [Class 2 - State and Props](./class02-reading-notes.md)
 3. [Class 3 - Passing Functions as Props](./class03-reading-notes.md)
 4. [Class 4 - React and Forms](./class04-reading-notes.md)
-5. [Class 5 -](./class05-reading-notes.md)
+5. [Class 5 - Putting it all together](./class05-reading-notes.md)
 6. [Class 6 -](./class06-reading-notes.md)
 7. [Class 7 -](./class07-reading-notes.md)
 8. [Class 8 -](./class08-reading-notes.md)

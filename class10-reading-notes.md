@@ -1,4 +1,14 @@
-# In-memory-storage
+# Read: 10 In Memory Storage
+
+## Links and Resources
+
+- [Understanding the JavaScript Call Stack](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4)
+- [JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
+-[JavaScript errors reference on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
+
+<hr>
+
+## In-memory-storage
 
 ## Understanding the JavaScript Call Stack
 
@@ -36,3 +46,5 @@ A breakpoint will make your program stop at that point only if a condition is me
 
 What does the word ‘debugger’ do in your code?
 Debugging means to run your code step by step in a debugging tool like Visual Studio, to find the exact point where you made a programming mistake. Debugging tools often allow you to make temporary changes so you can continue running the program.
+
+<hr>

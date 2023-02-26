@@ -1,4 +1,16 @@
-My JavaScript
+# Read: 06 Dynamic web pages with JavaScript
+
+## Links and Resources
+
+- [JS Intro Paragraph](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Introduction to JavaScript - basic output](https://code-maven.com/introduction-to-javascript)
+- [JavaScript input with prompt and Confirm](https://code-maven.com/javascript-input-with-prompt-and-confirm)
+- [Variables](https://www.w3schools.com/js/js_variables.asp)
+- [How Computers Work -  Playlist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+
+<hr>
+
+## My JavaScript
 
 A Breif overview of JavaScript
 JavaScript
@@ -9,3 +21,5 @@ This section is dedicated to the JavaScript language itself, and not the parts t
 The standards for JavaScript are the ECMAScript Language Specification (ECMA-262) and the ECMAScript Internationalization API specification (ECMA-402). As soon as one browser implements a feature, we try to document it. This means that cases where some proposals for new ECMAScript features have already been implemented in browsers, documentation and examples in MDN articles may use some of those new features. Most of the time, this happens between the stages 3 and 4, and is usually before the spec is officially published.
 
 Do not confuse JavaScript with the Java programming language. Both "Java" and "JavaScript" are trademarks or registered trademarks of Oracle in the U.S. and other countries. However, the two programming languages have very different syntax, semantics, and use.
+
+<hr>

@@ -1,4 +1,16 @@
-Passing-Functions-as-Props
+# Read: 03 Passing Functions as Props
+
+## Links and Resources
+
+- [React Docs - list and Keys](https://reactjs.org/docs/lists-and-keys.html)
+- [The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
+- [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU&t=133s)
+- [React Tutorial through 'Declaring a Winner'](https://reactjs.org/tutorial/tutorial.html)
+- [React Docs - Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
+
+<hr>
+
+## Passing-Functions-as-Props
 
 React Docs - lists and keys
 
@@ -45,4 +57,6 @@ Define your parent callback function in your parent component then pass the func
 
 
 How does the child component invoke a method that was passed to it from a parent component?
-To call a child's function from a parent component in React first is to wrap the Child component in a forwardRef. Secondly, use the useImperativeHandle hook in the child to add a function to the Child and finally, call the Child's function from the Parent using the ref, e.g. childRef. current. childFunction() .
+To call a child's function from a parent component in React first is to wrap the Child component in a forwardRef. Secondly, use the useImperativeHandle hook in the child to add a function to the Child and finally, call the Child's function from the Parent using the ref, e.g. childRef. current. childFunction().
+
+<hr>

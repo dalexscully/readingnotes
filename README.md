@@ -1,4 +1,5 @@
 # My Code Fellows reading-notes
+
 *My reading journal*
 
 My learning journal! I created this August 2022. I am ecstatic to see how much I will add to this journal, and to have a visual representation of my growth and development
@@ -8,7 +9,7 @@ My learning journal! I created this August 2022. I am ecstatic to see how much I
 Table of Contents
 
 1. [Class 1 - Learning Markdown](./class1-readingnotes.md)
-2. [Class 2 -](./class2-readingnotes.md)
+2. [Class 2 - Reflection and Discussion](./class2-readingnotes.md)
 3. [Class 3 -](./class3-readingnotes.md)
 4. [Class 4 -](./class4-readingnotes.md)
 5. [Class 5 -](./class5-readingnotes.md)

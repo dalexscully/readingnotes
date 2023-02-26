@@ -1,4 +1,21 @@
-React-lifecycle-React-State-Vs-Props
+# Read: 02 State and Props
+
+## Links and Resources
+
+- [React Lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
+- [React State Vs Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
+- [React Docs - State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+- [React Docs - handling events](https://reactjs.org/docs/handling-events.html)
+- [React Tutorial through 'Developer Tools'](https://reactjs.org/tutorial/tutorial.html)
+- [React Bootstrap Documentation](https://react-bootstrap.github.io/)
+- [Bootstrap Cheatsheet](https://getbootstrap.com/docs/5.0/examples/cheatsheet/)
+- [Bootstrap Shuffle - a class "sandbox"](https://bootstrapshuffle.com/classes)
+- [Netilfy](https://www.netlify.com/)
+
+<hr>
+
+## React-lifecycle-React-State-Vs-Props
+
 Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’? Based off the diagram from the reading, it seems like the render happens first then the componentDidMount happens after.
 
 What is the very first thing to happen in the lifecycle of React? The first occurrance to happen in the lifecycle of React is the "Mounting, Updating, and Unmounting are the three phases of the component lifecycle."
@@ -14,4 +31,6 @@ What is the big difference between props and state? Props is passed into a compo
 
 When do we re-render our application? React schedules a render every time the state of a component changes. Scheduling a render means that this doesn't happen immediately. React will try to find the best moment for this. Changing the state means that React triggers an update when we call the setState function (in React hooks, you would use useState ).
 
-What are some examples of things that we could store in state? In React, whenever we are working with any data, we always use state for storing that data which may be a string , number or any complex object .
+What are some examples of things that we could store in state? In React, whenever we are working with any data, we always use state for storing that data which may be a string , number or any complex object.
+
+<hr>

@@ -1,4 +1,13 @@
-# More-CRUD
+# Read: 13 More CRUD
+
+## Links and Resources
+
+- [CRUD Basics](https://medium.com/geekculture/crud-operations-explained-2a44096e9c88)
+- [Speed Coding: Building a CRUD API](https://www.youtube.com/watch?v=EzNcBhSv1Wo)
+
+<hr>
+
+## More-CRUD
 
 ## CRUD Basics
 
@@ -17,3 +26,5 @@ How to Design a REST API:
 3. Determine Resource Representations. ...
 4. Assigning HTTP Methods. ...
 5. More Actions
+
+<hr>

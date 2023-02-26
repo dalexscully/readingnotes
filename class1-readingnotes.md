@@ -1,4 +1,14 @@
-Reading Notes Repo Rd 1 Learning Markdowns
+# Read: 01 Learning Markdown
+
+- [Getting Started](https://www.markdownguide.org/getting-started/)
+- [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+- [Mastering Markdown on Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Githbub](https://pages.github.com/)
+
+<hr>
+
+## Reading Notes Repo Rd 1 Learning Markdowns
+
 Overview
 Nearly all Markdown applications support the basic syntax outlined in the original Markdown design document. There are minor variations and discrepancies between Markdown processors — those are noted inline wherever possible.
 
@@ -97,3 +107,5 @@ First line with a backslash after.
 And the next line.
 
 First line with nothing after. And the next line.
+
+<hr>

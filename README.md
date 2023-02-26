@@ -7,7 +7,7 @@ My learning journal! I created this August 2022. I am ecstatic to see how much I
 
 Table of Contents
 
-1. [Class 1 -](./class1-readingnotes.md)
+1. [Class 1 - Learning Markdown](./class1-readingnotes.md)
 2. [Class 2 -](./class2-readingnotes.md)
 3. [Class 3 -](./class3-readingnotes.md)
 4. [Class 4 -](./class4-readingnotes.md)

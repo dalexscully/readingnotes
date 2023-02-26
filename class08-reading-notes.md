@@ -1,4 +1,15 @@
-# API-Design-Best-Practices
+# Read: 08 APIs
+
+## Links and Resources
+
+- [API Design Best Practices](https://www.youtube.com/watch?v=_YlYuNMTCc8)
+- [RegExr - Pay particular attention to the cheatsheet](https://regexr.com/)
+- [Regex Tutorial](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+- [Regex 101](https://regex101.com/)
+
+<hr>
+
+## API-Design-Best-Practices
 
 What does REST stand for? REST is an architectural style for building distributed systems based on hypermedia. REST is independent of any underlying protocol and is not necessarily tied to HTTP. However, most common REST API implementations use HTTP as the application protocol, and this guide focuses on designing REST APIs for HTTP.
 
@@ -25,3 +36,5 @@ What status code does an unsuccessful GET request return? If not valid, 400 Bad 
 What status code does a successful POST request return? If a PUT method creates a new resource, it returns HTTP status code 201 (Created), as with a POST method.
 
 What status code does a successful DELETE request return? If the delete operation is successful, the web server should respond with HTTP status code 204 (No Content), indicating that the process has been successfully handled, but that the response body contains no further information. If the resource doesn't exist, the web server can return HTTP 404 (Not Found).
+
+<hr>

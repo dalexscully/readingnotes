@@ -50,7 +50,7 @@ Table of Contents
 6. [Class 6 - NODE.JS](./class06-reading-notes.md)
 7. [Class 7 - REST](./class07-reading-notes.md)
 8. [Class 8 - APIs](./class08-reading-notes.md)
-9. [Class 9 -](./class09-reading-notes.md)
+9. [Class 9 - Functional Programming](./class09-reading-notes.md)
 10. [Class 10 -](./class10-reading-notes.md)
 11. [Class 11 -](./class11-reading-notes.md)
 12. [Class 12 -](./class12-reading-notes.md) 

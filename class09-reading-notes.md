@@ -1,4 +1,13 @@
-# Functional-Programming-Concepts
+# Read: 09 Functional Programming
+
+## Links and Resources
+
+- [Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
+- [Node JS Tutorial for Beginners #6 - Modules and required()](https://www.youtube.com/watch?v=xHLd36QoS4k)
+
+<hr>
+
+## Functional-Programming-Concepts
 
 What is functional programming? Functional programming is a programming paradigm — a style of building the structure and elements of computer programs — that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data
 
@@ -18,3 +27,5 @@ What does the word ‘require’ do? The basic functionality of require is that 
 How do we bring another module into the file the we are working in? To create a module just save the code you want in a file with the file extension .py : Save this code in a file named mymodule.py. ... Import the module named mymodule, and call the greeting function: ... Save this code in the file mymodule.py. ... Import the module named mymodule, and access the person1 dictionary:
 
 What do we have to do to make a module available? The first thing you do to get access to module features is export them. This is done using the export statement. You can export functions, var , let , const , and — as we'll see later — classes. They need to be top-level items; you can't use export inside a function.
+
+<hr>

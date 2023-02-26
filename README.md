@@ -11,7 +11,7 @@ Table of Contents
 1. [Class 1 - Learning Markdown](./class1-readingnotes.md)
 2. [Class 2 - Reflection and Discussion](./class2-readingnotes.md)
 3. [Class 3 - Reflection and Discussion](./class3-readingnotes.md)
-4. [Class 4 -](./class4-readingnotes.md)
+4. [Class 4 - Reflection and Discussion](./class4-readingnotes.md)
 5. [Class 5 -](./class5-readingnotes.md)
 6. [Class 6 -](./class6-readingnotes.md)
 7. [Class 7 -](./class7-readingnotes.md)

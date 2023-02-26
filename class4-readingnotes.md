@@ -1,4 +1,17 @@
-Brief Overview of Wireframe
+# Read: 04 Structure web pages with HTML
+
+## Links and Resources
+
+- [Wireframe and Design](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+- [Mozilla HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+- [Mozilla HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Mozilla HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+<hr>
+
+## Brief Overview of Wireframe
+
 Introduction to Wireframing
 
 Table of Content
@@ -22,3 +35,5 @@ Wireframes drawn with paper and a pencil, or at a whiteboard, have the advantage
 Wireframes from CareerFoundry student Samuel Adaramola:
 
 Example of a wireframe for responsive desktop and mobile design For more inspiration, check out our list of nine excellent website and app wireframe examples.
+
+<hr>

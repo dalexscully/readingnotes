@@ -109,4 +109,5 @@ Table of Contents
 
 Table of Contents
 
-[Engineering Topics](./Engineering-reading-notes.md)
+1. [Engineering Topics](./Engineering-reading-notes.md)
+2. [Class 1 - Node Ecosystem, TDD, CI/CD](./read-class01-reading-notes.md)

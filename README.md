@@ -27,7 +27,7 @@ Table of Contents
 4. [Class 4 - HTML Links, JS Functions, and Intro to CSS Layout](./class04-reading-note.md)
 5. [Class 5 - Images, Color, Text](./class05-reading-note.md)
 6. [Class 6 - Problem Domain, Objects, and the DOM](./class06-reading-note.md)
-7. [Class 7 -](./class07-reading-note.md)
+7. [Class 7 - Object-Oriented Programming, HTML Tables](./class07-reading-note.md)
 8. [Class 8 -](./class08-reading-note.md)
 9. [Class 9 -](./class09-reading-note.md)
 10. [Class 10 -](./class10-reading-note.md)

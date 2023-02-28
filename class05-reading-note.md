@@ -1,18 +1,11 @@
-# Read: Class 05 - Images, Color, Text
+# Reading-note-201-Rd-5
 
-## Links and Resources
-
-- [HTML Media](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
-- [Using Images In HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
-- [Common Image Types](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types)
-- [Choosing Image Formats](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types#choosing_an_image_format)
-- [Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-- [Using Color in CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color)
-- [Styling HTML Text Elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
-
+## Images, Color, Text
 <hr>
 
+
 ### HTML Media
+<hr>
 
 Using Images In HTML. Read Common Image Types and Choosing Image Formats.
 What is a real world use case for the alt attribute being used in a website? Its value is supposed to be a textual description of the image, for use in situations where the image cannot be seen/displayed or takes a long time to render because of a slow internet connection.
@@ -25,8 +18,7 @@ Describe the difference between a gif image and an svg image, pretend you are ex
 
 What image type would you use to display a screenshot on your website and why? PNG: This format is perfect for screenshots and other types of imagery where there's not a lot of color data.
 
-## Learn CSS
-
+Learn CSS
 Using Color in CSS. Styling HTML Text Elements
 Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge. The basic idea of this tool is simple. The foreground controls what color your brush or pencil will be, while the background color erases any added color and replaces it with the background color, which is white by default.
 
@@ -38,8 +30,5 @@ What do font-size, font-weight, and font-style do to HTML text elements? Font si
 
 Describe two ways you could add spacing around the characters displayed in an h1 element. The two ways I can add spacing around the characters displayed in and h1 element is first the text-align property that is used to control how text is aligned within its containing content box. Secondly, The line-height property sets the height of each line of text.
 
-## Things I want to know more about
-
+Things I want to know more about:
 I definitely would like to comprehend CSS more in depth for it seems like such a broad language to learn.
-
-<hr>

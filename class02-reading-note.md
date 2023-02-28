@@ -1,6 +1,18 @@
-#Reading-note
+# Read: 02 - Basics of HTML, CSS & JS
 
-##Basics of HTML, CSS & JS Rd.2
+
+## Links and Resources
+
+- [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+- [HTML Text Fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
+- [ HTML Advanced Text Formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
+- [How CSS Is Structured](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)
+- [ JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [Making Decisions In Your Code – Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+- [https://chris.beams.io/posts/git-commit/](https://cbea.ms/git-commit/)
+
+## Basics of HTML, CSS & JS Rd.2
+
 <hr>
 
 Why is it important to use semantic elements is our HTML? Semantic elements gives the text it wrap around the role (meaning of a top level heading on a page. Semantics is one of HTML main component so that the browser know-how to display it correctly.
@@ -36,3 +48,5 @@ List 3 different types of comparison operators. The three different types of com
 What is the difference between the logical operator && and ||? An && — AND; allows you to chain together two or more expressions so that all of them have to individually evaluate to true for the whole expression to return true.
 
 An || — OR; allows you to chain together tw or more expressions so that one or more of them have to individually evaluate to true for the whole expression to return true.
+
+<hr>

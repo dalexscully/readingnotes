@@ -1,11 +1,15 @@
-# Reading-note-rd-6
+# Read: Class 06 - Problem Domain, Objects, and the DOM
 
+## Links and Resources
 
-## Problem Domain, Objects, and the DOM
+- [JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+- [Introduction To The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- [Understanding the problem domain is the hardest part of programming](https://dzone.com/articles/understanding-problem-domain)
+- [What’s the difference between primitive values and object references in JavaScript?](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
+
 <hr>
 
-### JavaScript Object Basics
-<hr>
+## JavaScript Object Basics
 
 How would you describe an object to a non-technical friend you grew up with? An object is a collection of related data and/or functionality. These usually consist of several variables and functions (which are called properties and methods when they are inside objects).
 
@@ -17,7 +21,8 @@ Give an example for when you would need to use bracket notation to access an obj
 
 Evaluate the code below. What does the term this refer to and what is the advantage to using this? The this keyword refers to the current object the code is being written inside — so in this case this is equivalent to person. So why not just write person instead? Well, when you only have to create a single object literal, it's not so useful. But if you create more than one, this enables you to use the same method definition for every object you create.
 
-Introduction To The DOM
+## Introduction To The DOM
+
 What is the DOM? The Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page.
 
 Briefly describe the relationship between the DOM and JavaScript. That is to say, it is written in JavaScript, but uses the DOM to access the document and its elements. The DOM is not a programming language, but without it, the JavaScript language wouldn't have any model or notion of web pages, HTML documents, SVG documents, and their component parts. The document as a whole, the head, tables within the document, table headers, text within the table cells, and all other elements in a document are parts of the document object model for that document. They can all be accessed and manipulated using the DOM and a scripting language like JavaScript.
@@ -26,5 +31,8 @@ The DOM is not part of the JavaScript language, but is instead a Web API used to
 
 The DOM was designed to be independent of any particular programming language, making the structural representation of the document available from a single, consistent API. Even if most web developers will only use the DOM through JavaScript, implementations of the DOM can be built for any language.
 
-Things I want to know more about.
+## Things I want to know more about
+
 I want to dive deeper into JavaScript concepts of DOM and Objects. The entire JavaScript language seems very broad and it is something I would love to dissect and learn all the layers to this language.
+
+<hr>

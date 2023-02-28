@@ -1,12 +1,16 @@
-# Reading-note-rd11
+# Read: Class 11 - Audio, Video, Images
+
+## Links and Resources
+
+- [Video and Audio Content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
+- [A Complete Guide To Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+- [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+- [Other Embedding Technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
+
 <hr>
 
-## Audio, Video, Images
-<hr>
-
-### Video and Audio Content
-<hr>
-
+## Video and Audio Content
 
 Explain how the ability to use video and audio on the web has evolved since the early 2000s.
 
@@ -17,11 +21,14 @@ The source HTML element specifies multiple media resources for the picture, the 
 Why is it important to have fallback content inside the video element?
 
 This is called fallback content for this will be displayed if the browser accessing the page doesn't support the video element, allowing us to provide a fallback for older browsers. This can be anything you like; in this case, we've provided a direct link to the video file, so the user can at least access it some way regardless of what browser they are using.
-Write a very short story where audio and video are characters.
+
+## Write a very short story where audio and video are characters
 
 The audio and video tracks within the container hold data in the appropriate format for the codec used to encode that media. Different formats are used for audio tracks versus video tracks. Each audio track is encoded using an audio codec, while video tracks are encoded using (as you probably have guessed) a video codec. As we talked about before, different browsers support different video and audio formats, and different container formats (like MP3, MP4, and WebM, which in turn can contain different types of video and audio).
-A Complete Guide To Grid
-How does Grid layout differ from Flex?
+
+## A Complete Guide To Grid
+
+- How does Grid layout differ from Flex?
 
 Grid and flexbox. The basic difference between CSS Grid Layout and CSS Flexbox Layout is that flexbox was designed for layout in one dimension - either a row or a column. Grid was designed for two-dimensional layout - rows, and columns at the same time
 Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.
@@ -39,6 +46,8 @@ An image filename (elva-fairy-480w.jpg) A space The image's intrinsic width in p
 The sizes defines a set of media conditions (e.g. screen widths) and indicates what image size would be best to choose, when certain media conditions are true — these are the hints we talked about earlier. In this case, before each comma we write:
 A media condition ((max-width:600px)) — you'll learn more about these in the CSS topic, but for now let's just say that a media condition describes a possible state that the screen can be in. In this case, we are saying "when the viewport width is 600 pixels or less". A space The width of the slot the image will fill when the media condition is true (480px).
 
-How is srcset more helpful for responsive images than CSS or JavaScript?
+## How is srcset more helpful for responsive images than CSS or JavaScript?
 
 The srcset attribute on an img tag specifies multiple image resources (URLs) for the img element. Together with the sizes attribute they create responsive images that adjust according to browser conditions.
+
+<hr>

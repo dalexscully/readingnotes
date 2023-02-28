@@ -111,3 +111,4 @@ Table of Contents
 
 1. [Engineering Topics](./Engineering-reading-notes.md)
 2. [Class 1 - Node Ecosystem, TDD, CI/CD](./read-class01-reading-notes.md)
+3. [Class 2 - Classes, Inheritance, Functional Programming](./read-class02-reading-notes.md)

@@ -33,7 +33,7 @@ Table of Contents
 10. [Class 10 - Debugging](./class10-reading-note.md)
 11. [Class 11 - Audio, Video, Images](./class11-reading-note.md)
 12. [Class 12 - Chart.js, Canvas](./class12-reading-note.md)
-13. [Class 13 -](./class13-reading-note.md)
+13. [Class 13 - Readings](./class13-reading-note.md)
 14. [Class 14 -](./class14-reading-note.md)
 15. [Class 15 -](./class14B-reading-note.md)
 

@@ -1,9 +1,18 @@
-# Reading-note-rd14
+# Read: Class 14 - Readings
+
+## Links and Resources
+
+- [CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
+- [CSS Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
+- [8 simple CSS3 transitions that will wow your users](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)
+- [Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/QWMxRR)
+- [6 Buttons animated](https://codepen.io/retyui/pen/ByoaXV)
+- [CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)
+- [404](https://codepen.io/kieranfivestars/pen/MYdQxX)
+
 <hr>
 
 ## CSS Transforms
-<hr>
-
 
 What does a CSS transform allow the developer to do to an element?
 
@@ -25,3 +34,5 @@ There are three key advantages to CSS animations over traditional script-driven 
 How this topic fit in with your long-term goals?
 
 These topics are the foundation building blocks for me to establish myself in the field and career of Software developer and to obtain the proper knowledge and skill-set to be the best person I can be for the job and task that's ask of me.
+
+<hr>

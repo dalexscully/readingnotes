@@ -30,7 +30,7 @@ Table of Contents
 7. [Class 7 - Object-Oriented Programming, HTML Tables](./class07-reading-note.md)
 8. [Class 8 - CSS Layout](./class08-reading-note.md)
 9. [Class 9 - Forms and JS Events](./class09-reading-note.md)
-10. [Class 10 -](./class10-reading-note.md)
+10. [Class 10 - Debugging](./class10-reading-note.md)
 11. [Class 11 -](./class11-reading-note.md)
 12. [Class 12 -](./class12-reading-note.md)
 13. [Class 13 -](./class13-reading-note.md)

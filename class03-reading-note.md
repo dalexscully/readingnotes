@@ -1,10 +1,20 @@
-#Reading-note-3
+# Read: 03 - HTML Lists, Control Flow with JS, and the CSS Box Model
 
-## HTML Lists, Control Flow with JS, and the CSS Box Model
+## Links and Resources
 
+- [Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Ordered list](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
+- [ Unordered lists](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+- [Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [Learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+- [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
+- [Operators and Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+- [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+- [Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
 
-### Learn HTML
 <hr>
+
+## Learn HTML
 
 When should you use an unordered list in your HTML document? The ul element is for grouping a collection of items that do not have a numerical ordering, and their order in the list is meaningless. Typically, unordered-list items are displayed with a bullet, which can be of several forms, like a dot, a circle, or a square.
 
@@ -14,7 +24,8 @@ When should you use an ordered list vs an unorder list in your HTML document? Th
 
 Describe two ways you can change the numbers on list items provided by an ordered list? The two ways that a number can be change on list items provided by an ordered list would be first 'using roman numeral type' and secondly 'using the start attribute.'
 
-Learn CSS
+## Learn CSS
+
 Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”? The CSS properties of Margin and Padding. A margin is the outermost layer, wrapping the content, padding, and border as whitespace between a box and other elements. A padding sits around the content as white space; size it using padding and related properties. The role margin and padding played in the "The box model" can be characterized as in the standard box model, if you give a box an inline-size and a block-size (or width and a height) attributes, this defines the inline-size and block-size (width and height in horizontal languages) of the content box. Any padding and border is then added to those dimensions to get the total size taken up by the box.
 
 List and describe the four parts of an HTML elements box as referred to by the box model. The four parts of an HTML elements box are: Margin, padding, border and size.
@@ -47,5 +58,8 @@ if (shoppingDone === true) { childsAllowance = 10; } else { childsAllowance = 5;
 
 Give an example of when a Loop is useful in JavaScript. We will want to us a Loop for rapidly completing repetitive tasks, from multiple basic calculations to just about any other situation where you've got a lot of similar items of work to complete. I would want to use a Loop if I wanted to draw 100 random squares to have it be repeated many times in different random order.
 
-Things I want to know more about
+## Things I want to know more about
+
 I want to drive deeper into Arrays and Loop for I find them very interested.
+
+<hr>

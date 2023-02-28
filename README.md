@@ -21,7 +21,7 @@ Table of Contents
 
 Table of Contents
 
-1. [Class 1 -](./class01-reading-note.md)
+1. [Class 1 - Getting Started](./class01-reading-note.md)
 2. [Class 2 -](./class02-reading-note.md)
 3. [Class 3 -](./class03-reading-note.md)
 4. [Class 4 -](./class04-reading-note.md)

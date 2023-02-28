@@ -24,7 +24,7 @@ Table of Contents
 1. [Class 1 - Getting Started](./class01-reading-note.md)
 2. [Class 2 - Basics of HTML, CSS & JS](./class02-reading-note.md)
 3. [Class 3 - HTML Lists, Control Flow with JS, and the CSS Box Model](./class03-reading-note.md)
-4. [Class 4 -](./class04-reading-note.md)
+4. [Class 4 - HTML Links, JS Functions, and Intro to CSS Layout](./class04-reading-note.md)
 5. [Class 5 -](./class05-reading-note.md)
 6. [Class 6 -](./class06-reading-note.md)
 7. [Class 7 -](./class07-reading-note.md)

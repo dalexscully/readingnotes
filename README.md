@@ -39,7 +39,7 @@ Table of Contents
 
 
 
-#### Code 301 - Intermeddiate Software Development
+### Code 301 - Intermeddiate Software Development
 
 Table of Contents
 

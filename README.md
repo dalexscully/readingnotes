@@ -114,3 +114,4 @@ Table of Contents
 3. [Class 2 - Classes, Inheritance, Functional Programming](./read-class02-reading-notes.md)
 4. [Class 3 - Data Modeling & NoSQL Databases](./read-class03-reading-notes.md)
 5. [Class 4 -Advanced Mongo/Mongoose](./read-class04-reading-notes.md)
+6. [Class 5 - Linked Lists](./read-class05-reading-notes.md)

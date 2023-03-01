@@ -115,3 +115,4 @@ Table of Contents
 4. [Class 3 - Data Modeling & NoSQL Databases](./read-class03-reading-notes.md)
 5. [Class 4 -Advanced Mongo/Mongoose](./read-class04-reading-notes.md)
 6. [Class 5 - Linked Lists](./read-class05-reading-notes.md)
+7. [Class 6 - HTTP and REST](./read-class06-reading-notes.md)

@@ -117,3 +117,4 @@ Table of Contents
 6. [Class 5 - Linked Lists](./read-class05-reading-notes.md)
 7. [Class 6 - HTTP and REST](./read-class06-reading-notes.md)
 8. [Class 7 - Express](./read-class07-reading-notes.md)
+9. [Class 8 - Express Routing & Connected API](./read-class08-reading-notes.md)

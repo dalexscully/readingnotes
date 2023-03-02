@@ -116,3 +116,4 @@ Table of Contents
 5. [Class 4 -Advanced Mongo/Mongoose](./read-class04-reading-notes.md)
 6. [Class 5 - Linked Lists](./read-class05-reading-notes.md)
 7. [Class 6 - HTTP and REST](./read-class06-reading-notes.md)
+8. [Class 7 - Express](./read-class07-reading-notes.md)

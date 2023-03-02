@@ -119,3 +119,5 @@ Table of Contents
 8. [Class 7 - Express](./read-class07-reading-notes.md)
 9. [Class 8 - Express Routing & Connected API](./read-class08-reading-notes.md)
 10. [Class 9 - API Server](./read-class09-reading-notes.md)
+11. [Class 10 - Authentication](./read-class11-reading-notes.md)
+12. [Class 11 - OAuth](./read-class12-reading-notes.md)

@@ -125,3 +125,4 @@ Table of Contents
 14. [Class 13 - Access Control(ACL)](./read-class14-reading-notes.md)
 15. [Class 14 - Event Driven Applications](./read-class16-reading-notes.md)
 16. [Class 15 - TCP Servers](./read-class17-reading-notes.md)
+17. [Class 16 - Socket.io](./read-class18-reading-notes.md)

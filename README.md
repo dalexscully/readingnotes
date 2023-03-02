@@ -121,3 +121,5 @@ Table of Contents
 10. [Class 9 - API Server](./read-class09-reading-notes.md)
 11. [Class 10 - Authentication](./read-class11-reading-notes.md)
 12. [Class 11 - OAuth](./read-class12-reading-notes.md)
+13. [Class 12 - Bearer Authorization](./read-class13-reading-notes.md)
+14. [Class 13 - Access Control(ACL)](./read-class14-reading-notes.md)

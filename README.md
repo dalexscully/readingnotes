@@ -127,3 +127,4 @@ Table of Contents
 16. [Class 15 - TCP Servers](./read-class17-reading-notes.md)
 17. [Class 16 - Socket.io](./read-class18-reading-notes.md)
 18. [Class 17 - Message Queues](./read-class19-reading-notes.md)
+19. [Class 26 - Component Based UI](./read-class26-reading-notes.md)

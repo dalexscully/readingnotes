@@ -133,3 +133,5 @@ Table of Contents
 22. [Class 29 - Routing](./read-class29-reading-notes.md)
 23. [Class 31 - Hooks API](./read-class31-reading-notes.md)
 24. [Class 32 - Customs Hooks](./read-class32-reading-notes.md)
+25. [Class 33- Context API](./read-class33-reading-notes.md)
+26. [Class 34 - Login & Auth](./read-class34-reading-notes.md)

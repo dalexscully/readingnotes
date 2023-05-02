@@ -135,7 +135,7 @@ Table of Contents
 24. [Class 32 - Customs Hooks](./read-class32-reading-notes.md)
 25. [Class 33- Context API](./read-class33-reading-notes.md)
 26. [Class 34 - Login & Auth](./read-class34-reading-notes.md)
-27. [Class 26 - Application State with Redux](./read-class36-reading-notes.md)
+27. [Class 36 - Application State with Redux](./read-class36-reading-notes.md)
 28. [Class 37 - Redux - Combined Reducers](./read-class37-reading-notes.md)
 29. [Class 38 - Redux - Asynchronous Actions](./read-class38-reading-notes.md)
 30. [Class 39 - Redux - Continued](./read-class39-reading-notes.md)

@@ -129,3 +129,4 @@ Table of Contents
 18. [Class 17 - Message Queues](./read-class19-reading-notes.md)
 19. [Class 26 - Component Based UI](./read-class26-reading-notes.md)
 20. [Class 27 - Props and State](./read-class27-reading-notes.md)
+21. [Class 28 - Components & Composition](./read-class28-reading-notes.md)

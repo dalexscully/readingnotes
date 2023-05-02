@@ -132,3 +132,4 @@ Table of Contents
 21. [Class 28 - Components & Composition](./read-class28-reading-notes.md)
 22. [Class 29 - Routing](./read-class29-reading-notes.md)
 23. [Class 31 - Hooks API](./read-class31-reading-notes.md)
+24. [Class 32 - Customs Hooks](./read-class32-reading-notes.md)

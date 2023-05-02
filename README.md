@@ -130,3 +130,4 @@ Table of Contents
 19. [Class 26 - Component Based UI](./read-class26-reading-notes.md)
 20. [Class 27 - Props and State](./read-class27-reading-notes.md)
 21. [Class 28 - Components & Composition](./read-class28-reading-notes.md)
+22. [Class 29 - Routing](./read-class29-reading-notes.md)

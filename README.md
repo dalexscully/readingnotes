@@ -136,3 +136,4 @@ Table of Contents
 25. [Class 33- Context API](./read-class33-reading-notes.md)
 26. [Class 34 - Login & Auth](./read-class34-reading-notes.md)
 27. [Class 26 - Application State with Redux](./read-class36-reading-notes.md)
+28. [Class 37 - Redux - Combined Reducers](./read-class37-reading-notes.md)
